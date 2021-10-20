@@ -1,0 +1,260 @@
+[
+  {
+    "id": "northamerica",
+    "title": "América do Norte",
+    "subTitle": "O continente mais rico",
+    "description": "A América do Norte abrange a porção setentrional do continente americano, apesar desse “subcontinente” estar firmado em sua própria placa tectônica. O subcontinente da América do Norte compreende o Canadá, México, Groenlândia e os Estados Unidos da América (EUA).",
+    "statistics": [
+      {
+        "count": "4",
+        "description": "países"
+      },
+      {
+        "count": "10",
+        "description": "línguas"
+      },
+      {
+        "count": "50",
+        "description": "cidades +100",
+        "showIcon": true
+      }
+    ],
+    "cities": [
+      {
+        "city": "Nova York",
+        "country": "Estados Unidos",
+        "image": "/northamerica/cities/nova-york.png",
+        "flag": "/northamerica/flags/estados-unidos.png"
+      },
+      {
+        "city": "Cancun",
+        "country": "México",
+        "image": "/northamerica/cities/cancun.png",
+        "flag": "/northamerica/flags/mexico.png"
+      },
+      {
+        "city": "Toronto",
+        "country": "Canada",
+        "image": "/northamerica/cities/toronto.png",
+        "flag": "/northamerica/flags/canada.png"
+      }
+    ]
+  },
+  {
+    "id": "southamerica",
+    "title": "América do Sul",
+    "subTitle": "O continente mais bonito",
+    "description": "Com uma extensão de cerca de 17,8 milhões de km², a América do Sul comporta 6% da população mundial dividida em 12 países e 7 territórios. São eles a Argentina, Bolívia, Brasil, Chile, Colômbia, Equador, Guiana, Paraguai, Peru, Suriname, Uruguai e Venezuela e, os territórios da Guiana Francesa, Ilha de Páscoa, Ilhas Galápagos, Ilhas Geórgia e Sandwich e Ilhas Malvinas.",
+    "statistics": [
+      {
+        "count": "13",
+        "description": "países"
+      },
+      {
+        "count": "5",
+        "description": "línguas"
+      },
+      {
+        "count": "75",
+        "description": "cidades +100",
+        "showIcon": true
+      }
+    ],
+    "cities": [
+      {
+        "city": "São Paulo",
+        "country": "Brasil",
+        "image": "/southamerica/cities/sao-paulo.png",
+        "flag": "/southamerica/flags/brasil.png"
+      },
+      {
+        "city": "Santiago",
+        "country": "Chile",
+        "image": "/southamerica/cities/santiago.png",
+        "flag": "/southamerica/flags/chile.png"
+      },
+      {
+        "city": "Machu Picchu",
+        "country": "Peru",
+        "image": "/southamerica/cities/machu-picchu.png",
+        "flag": "/southamerica/flags/peru.png"
+      }
+    ]    
+  },
+  {
+    "id": "asia",
+    "title": "Ásia",
+    "subTitle": "O continente mais populoso",
+    "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial.",
+    "statistics": [
+      {
+        "count": "50",
+        "description": "países"
+      },
+      {
+        "count": "78",
+        "description": "línguas"
+      },
+      {
+        "count": "43",
+        "description": "cidades +100",
+        "showIcon": true
+      }
+    ],
+    "cities": [
+      {
+        "city": "Dubai",
+        "country": "Emirados Árabes",
+        "image": "/asia/cities/dubai.png",
+        "flag": "/asia/flags/emirados-arabes-unidos.png"
+      },
+      {
+        "city": "Tokio",
+        "country": "Japão",
+        "image": "/asia/cities/tokio.png",
+        "flag": "/asia/flags/japao.png"
+      },
+      {
+        "city": "Pequim",
+        "country": "China",
+        "image": "/asia/cities/pequim.png",
+        "flag": "/asia/flags/china.png"
+      }
+    ]    
+  },
+  {
+    "id": "africa",
+    "title": "África",
+    "subTitle": "O maior continente",
+    "description": "A África é conhecida pela sua pluralidade étnica e cultural, e, por meio de uma história milenar, é capaz de contar a história de toda a humanidade. Apesar da enorme riqueza do continente, muitos países africanos apresentam baixos índices de desenvolvimento, com diversos problemas sociais, como a miséria, baixa qualidade de vida, subnutrição e o analfabetismo.",
+    "statistics": [
+      {
+        "count": "50",
+        "description": "países"
+      },
+      {
+        "count": "112",
+        "description": "línguas"
+      },
+      {
+        "count": "13",
+        "description": "cidades +100",
+        "showIcon": true
+      }
+    ],
+    "cities": [
+      {
+        "city": "Harare",
+        "country": "Zimbabwe",
+        "image": "/africa/cities/harare.png",
+        "flag": "/africa/flags/zimbabwe.png"
+      },
+      {
+        "city": "Cairo",
+        "country": "Egito",
+        "image": "/africa/cities/cairo.png",
+        "flag": "/africa/flags/egito.png"
+      },
+      {
+        "city": "Rabat",
+        "country": "Marrocos",
+        "image": "/africa/cities/rabat.png",
+        "flag": "/africa/flags/marrocos.png"
+      }
+    ]    
+  },
+  {
+    "id": "europe",
+    "title": "Europa",
+    "subTitle": "O continente mais antigo",
+    "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+    "statistics": [
+      {
+        "count": "50",
+        "description": "países"
+      },
+      {
+        "count": "60",
+        "description": "línguas"
+      },
+      {
+        "count": "27",
+        "description": "cidades +100",
+        "showIcon": true
+      }
+    ],
+    "cities": [
+      {
+        "city": "Londres",
+        "country": "Reino Unido",
+        "image": "/europe/cities/londres.png",
+        "flag": "/europe/flags/reino-unido.png"
+      },
+      {
+        "city": "Paris",
+        "country": "França",
+        "image": "/europe/cities/paris.png",
+        "flag": "/europe/flags/franca.png"
+      },
+      {
+        "city": "Roma",
+        "country": "Itália",
+        "image": "/europe/cities/roma.png",
+        "flag": "/europe/flags/italia.png"
+      },
+      {
+        "city": "Praga",
+        "country": "República Tcheca",
+        "image": "/europe/cities/praga.png",
+        "flag": "/europe/flags/republica-tcheca.png"
+      },
+      {
+        "city": "Amsterdã",
+        "country": "Holanda",
+        "image": "/europe/cities/amsterda.png",
+        "flag": "/europe/flags/holanda.png"
+      }
+    ]
+  },
+  {
+    "id": "oceania",
+    "title": "Oceania",
+    "subTitle": "O continente mais exótico",
+    "description": "A Oceania é um continente situado entre os oceanos Índico e Pacífico, a sudeste da Ásia. A maior parte de suas terras fica no Hemisfério Sul do planeta. É composto por 14 países e ilhas e territórios pertencentes a outros países, tanto oceânicos quanto de outros continentes. A maior e mais populosa das nações é a Austrália, que consiste também na principal economia do continente. Destaca-se também a Nova Zelândia.",
+    "statistics": [
+      {
+        "count": "14",
+        "description": "países"
+      },
+      {
+        "count": "5",
+        "description": "línguas"
+      },
+      {
+        "count": "20",
+        "description": "cidades +100",
+        "showIcon": true
+      }
+    ],    
+    "cities": [
+      {
+        "city": "Sydney",
+        "country": "Austrália",
+        "image": "/oceania/cities/sydney.png",
+        "flag": "/oceania/flags/australia.png"
+      },
+      {
+        "city": "Franz Josef",
+        "country": "Nova Zelândia",
+        "image": "/oceania/cities/franz-josef.png",
+        "flag": "/oceania/flags/nova-zelandia.png"
+      },
+      {
+        "city": "Yasawa",
+        "country": "Fiji",
+        "image": "/oceania/cities/yasawa.png",
+        "flag": "/oceania/flags/fiji.png"
+      }
+    ]    
+  }  
+]
